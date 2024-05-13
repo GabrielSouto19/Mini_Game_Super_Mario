@@ -4,7 +4,7 @@ Este é um projeto de um mini game inspirado no clássico Super Mario Bros, dese
 
 ## Como Jogar
 
-Para jogar, basta abrir o arquivo `index.html` em um navegador web compatível. Use a tecla de  espaço para pular.
+Para jogar, basta abrir o arquivo `index.html` em um navegador web compatível ou simplismente acessar o link localizado na aba "about" deste repositório. Use qualquer tecla para pular.
 
 ## Funcionalidades
 
